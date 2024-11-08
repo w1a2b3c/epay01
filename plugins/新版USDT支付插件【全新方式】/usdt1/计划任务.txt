@@ -1,0 +1,9 @@
+shell脚本
+N分钟 1分钟
+执行用户：root
+
+
+内容代码：
+php /www/wwwroot/pay.tok88.cn/plugins/usdt1/cron.php 2
+
+

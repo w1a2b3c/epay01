@@ -1,0 +1,1 @@
+ALTER TABLE `pay_order` ADD `usmoney` DECIMAL(10,5) NOT NULL DEFAULT '0' COMMENT '转换币' AFTER `money`;
