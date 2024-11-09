@@ -1,12 +1,4 @@
-<?php
-$nosession = true;
-define('API_INIT', true);
-require './includes/common.php';
 
-if(isset($_GET['s'])){
-	\lib\ApiHelper::load_api($_GET['s']);
-	exit;
-}
 
 $act=isset($_GET['act'])?daddslashes($_GET['act']):null;
 @header('Content-Type: application/json; charset=UTF-8');
