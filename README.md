@@ -1,6 +1,6 @@
 # epay11
 易支付十一月份最新版源码 —— 免授权版本及USDT插件更新
-# 完整专业版（免授权直接用）：https://zibovip.top/archives/2754
+# 完整专业版（免授权直接用）：[https://zibovip.top/archives/2754](https://zibovip.top/2761.html)
 在线测试链接：账号/密码   admin/123456
 https://ydz.zibovip.top/admin
 上一个项目：乞丐要饭源码系统
